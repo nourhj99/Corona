@@ -1,0 +1,13 @@
+.btn-block 
+{
+    margin-top: 600px;
+    width: 50%;
+}
+body
+{  
+    background: url("https://www.sanjuanjournal.com/wp-content/uploads/2020/03/20948548_web1_covidupdate-isj-200318-covid_1.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

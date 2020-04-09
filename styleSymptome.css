@@ -1,0 +1,22 @@
+body
+{  
+    background: url("https://cdn-media.rtl.fr/cache/-MyILVVsho1pH2iYHUZF2w/600v400-0/online/image/2020/0309/7800225719_un-laborantin-realise-un-test-sur-un-prelevement-d-un-patient-potentiellement-atteint-du-coronavirus-dans-un-hopital-de-creteil-illustration.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1
+{
+    color:red;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.form1
+{
+    margin-left: 350px;
+}
+.btn-danger
+{
+    margin-left: 700px;
+}

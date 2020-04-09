@@ -1,0 +1,37 @@
+body
+{  
+    background: url("https://resize.prod.docfr.doc-media.fr/img/var/doctissimo/storage/images/fr/www/sante/encyclopedie-medicale/purpura-fulminans/348242-4-fre-FR/purpura-fulminans.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.titre
+{
+    color:red;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.demande
+{
+    color: white;
+    margin-left: 550px;
+}
+.temperature
+{
+    color: white;
+    margin-left: 650px;
+}
+.rectangle
+{
+    width:400px;
+    height:350px;
+    background-color:black;
+    margin-left: 600px;
+
+}
+
+.btn-danger
+{
+    margin-left: 750px;
+}
